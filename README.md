@@ -60,5 +60,7 @@ plt.xlabel('Number of Jobs')
 plt.ylabel('Location')
 plt.show()
 
-![](images/graph1.png)
-![](images/graph2.png)
+```
+
+![Graph 1](images/graph1.png)
+![Graph 2](images/graph2.png)
